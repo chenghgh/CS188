@@ -26,5 +26,14 @@ An introductory assignment.
 - A Better Evaluation Function
 - 3-Board Misere Tic-Tac-Toe
 
+### Assignment3
 
+- Value Iteration
+- Bridge Crossing Analysis
+- Policies
+- Q-Learning
+- Epsilon Greedy
+- Bridge Crossing Revisited
+- Q-Learning and Pacman
+- Approximate Q-Learning
 
